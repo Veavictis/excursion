@@ -18,3 +18,25 @@ body {
 a {
     color: aquamarine;
 }
+
+.video {
+    margin: 0 auto;
+   display: block;
+   width: 400px;
+}
+
+.lower {
+    color: gray;
+    font-family: verdana;
+    font-size: 21px;
+    text-align: center;
+}
+
+.camp {
+    text-align: center;
+}
+
+.copy {
+    text-align: right;
+    color: gray;
+}
